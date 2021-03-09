@@ -1,0 +1,4 @@
+﻿  Vector2D.cpp
+D:\навчання\repos\lab1.3\lab1.3\Vector2D.cpp(34,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\навчання\repos\lab1.3\lab1.3\Vector2D.cpp(50,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab1.3.vcxproj -> D:\навчання\repos\lab1.3\Debug\lab1.3.exe
